@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/Profile.png" />
+</p>
+
 ### Hi there I am Aquiles 👋
 
 I'm graduating in Information Systems, and studying the Front-End development part. And now I'm looking for opportunities in the development area. I would like to be part of a company where I can have an opportunity to develop my potential. I believe that with my knowledge, skills and competences, I can also contribute to personal growth. 
