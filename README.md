@@ -15,9 +15,9 @@ I'm graduating in Information Systems, and studying the Front-End development pa
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:aquilesfalcaoo@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=aquilesfalcaoo@gmail.com" /></a>
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aquilesfalcaoo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aquilesfalcaoo/" /></a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="center">Languages and tools:</h3>
