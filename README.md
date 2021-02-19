@@ -38,5 +38,5 @@ I'm graduating in Information Systems, and studying the front-end development pa
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=algolia&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=python,java&theme=algolia">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=python,java,typescript&theme=algolia">
 </p>
