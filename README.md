@@ -37,6 +37,6 @@ I'm graduating in Information Systems, and studying the front-end development pa
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=algolia&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=python,java,typescript&theme=algolia">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=python,java,typescript&theme=dark">
 </p>
