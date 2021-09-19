@@ -40,6 +40,6 @@ I'm graduating in Information Systems, and I am interning at Zaite Technology as
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,css,python,html&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,css,html&theme=dark&line_height=35">
 </p>
