@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/Profile.png" />
 </p>
 
-### Hi there, I am Aquiles 👋
+### Olá a todos! 👋
 
 Olá meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou graduando em Sistemas de Informação, portanto estou estagiando na Autobem Brasil como Desenvolvedor Front-end. Gosto sempre de aprender sobre ferramentas e tecnologias, e estou sempre aberto a novos desafios. No momento estou estudando UX Design, aprendendo sobre boas práticas e acessibilidade, e também estudando JavaScript para começar a utilizar o Angular.
 
