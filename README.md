@@ -4,14 +4,14 @@
 
 ### Hi there, I am Aquiles 👋
 
-I'm graduating in Information Systems, and I am interning at Zaite Technology as a Front-end Developer, I always like to learn about new technologies or tools and always open to new challenges. So I'm also studying a little bit about how the Back-end works.
+Olá meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou graduando em Sistemas de Informação, portanto estou estagiando na Autobem Brasil como Desenvolvedor Front-end. Gosto sempre de aprender sobre ferramentas e tecnologias, e estou sempre aberto a novos desafios. No momento estou estudando UX Design, aprendendo sobre boas práticas e acessibilidade, e também estudando JavaScript para começar a utilizar o Angular.
 
-- 👩‍🎓 Graphic Designer
-- 📚 Graduating in Information Systems
-- 👨🏽‍💻 I’m currently learning JavaScript and VueJS...
-- 🌐 Visit my LinkedIn for add me...
+- 👩‍🎓 Designer Gráfico
+- 📚 Graduando em Sistemas de Informação
+- 👨🏽‍💻 Estou estudando JavaScript e Angular
+- 🌐 Visite meu Linkedin para me adicionar...
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Me adicione:</h3>
 <p align="center">
   <a href="mailto:aquilesfalcaoo@gmail.com" alt="Gmail">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,7 +19,7 @@ I'm graduating in Information Systems, and I am interning at Zaite Technology as
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Languages and tools:</h3>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
