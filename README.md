@@ -8,7 +8,7 @@ Olá meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento es
 
 - 👩‍🎓 Designer Gráfico
 - 📚 Graduando em Sistemas de Informação
-- 👨🏽‍💻 Estou estudando JavaScript e Angular
+- 👨🏽‍💻 No momento estudando TypeScript e Angular
 - 🌐 Visite meu Linkedin para me adicionar...
 
 <h3 align="center">Me adicione:</h3>
