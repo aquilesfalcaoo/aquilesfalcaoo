@@ -7,7 +7,7 @@
 Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou graduando em Sistemas de Informação, portanto estou estagiando na Autobem Brasil como Desenvolvedor Front-end. Gosto sempre de aprender sobre ferramentas e tecnologias, e estou sempre aberto a novos desafios. No momento estou estudando UX Design, aprendendo sobre boas práticas e acessibilidade, e estou começando a estudar Angular e o TypeScript.
 
 - 👩‍🎓 Designer Gráfico
-- 📚 Graduando em Sistemas de Informação
+- 📚 Graduando em Sistemas de Informação (7/8)
 - 👨🏽‍💻 No momento estudando TypeScript e Angular
 - 🌐 Visite meu Linkedin para me adicionar...
 
