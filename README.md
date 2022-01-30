@@ -6,7 +6,7 @@
 
 Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou graduando em Sistemas de Informação, sou Desenvolvedor Front-end, portanto estou estagiando na Autobem Brasil como Desenvolvedor Front-end. Gosto sempre de aprender sobre ferramentas e tecnologias, e estou sempre aberto a novos desafios. No momento estou estudando UX Design, aprendendo sobre boas práticas e acessibilidade, e estou começando a estudar Angular e o TypeScript.
 
-- 👩‍🎓 Designer Gráfico
+- :man_student: Designer Gráfico
 - 📚 Graduando em Sistemas de Informação (7/8)
 - 👨🏽‍💻 No momento estou estudando Angular e TypeScript
 - 🌐 Visite meu Linkedin para se conectar comigo
@@ -38,8 +38,8 @@ Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou g
 </p><br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,python,html&theme=dark&line_height=35">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,html&theme=dark&line_height=33">
 </p>
 
 <p align="center">
