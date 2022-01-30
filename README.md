@@ -42,3 +42,8 @@ Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou g
   <img src = "https://github-readme-stats.vercel.app/api?username=aquilesfalcaoo&show_icons=true&theme=dark&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,python,html&theme=dark&line_height=35">
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/github-contribution-grid-snake.svg" />
+</p>
+
