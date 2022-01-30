@@ -9,8 +9,7 @@ Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou g
 - 👩‍🎓 Designer Gráfico
 - 📚 Graduando em Sistemas de Informação (7/8)
 - 👨🏽‍💻 No momento estou estudando TypeScript e Angular
-- 🌐 Visite meu Linkedin para me adicionar
-
+- 🌐 Visite meu Linkedin para se conectar comigo
 <h3 align="center">Me adicione:</h3>
 <p align="center">
   <a href="mailto:aquilesfalcaoo@gmail.com" alt="Gmail">
