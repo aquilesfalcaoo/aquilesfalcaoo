@@ -36,7 +36,7 @@ Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou g
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p><br>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/github-contribution-grid-snake.svg" />
