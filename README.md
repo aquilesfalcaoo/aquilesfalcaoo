@@ -10,6 +10,12 @@ Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou g
 - 📚 Graduando em Sistemas de Informação (7/8)
 - 👨🏽‍💻 No momento estou estudando Angular e TypeScript
 - 🌐 Visite meu Linkedin para se conectar comigo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/github-contribution-grid-snake.svg" />
+</p>
+
+
 <h3 align="center">Me adicione:</h3>
 <p align="center">
   <a href="mailto:aquilesfalcaoo@gmail.com" alt="Gmail">
@@ -42,7 +48,4 @@ Meu nome é Aquiles Falcão, sou formado em Design Gráfico e no momento estou g
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aquilesfalcaoo&hide=java,html&theme=dark&line_height=33">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aquilesfalcaoo/aquilesfalcaoo/master/github-contribution-grid-snake.svg" />
-</p>
 
