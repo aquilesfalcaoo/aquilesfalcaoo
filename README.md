@@ -8,7 +8,6 @@ Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e sou formado em Design
 
 - :man_student: Designer Gráfico
 - 📚 Graduando em Sistemas de Informação (7/8)
-- 👨🏽‍💻 No momento estou estudando Angular e Vue.js
 - 🌐 Visite meu Linkedin para se conectar comigo
 
 <h3 align="center">Contate-me:</h3>
