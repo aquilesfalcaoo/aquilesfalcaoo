@@ -6,7 +6,7 @@
 
 Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e no momento estou graduando em Sistemas de Informação. Gosto sempre de aprender sobre novas ferramentas e novas tecnologias, atualmente estudando e fazendo novos cursos da área. No momento, estou estudando C# e me aprofundando nos estudos em JavaScript Vanilla.
 
-- :man_student: Formado em Designer Gráfico
+- :man_student: Formado em Design Gráfico
 - 📚 Graduando em Sistemas de Informação (8/8)
 - 🌐 Visite meu Linkedin para se conectar comigo
 
