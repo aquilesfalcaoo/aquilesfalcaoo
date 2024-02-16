@@ -4,7 +4,7 @@
 
 ### Olá a todos! 👋
 
-Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e sou formado em Sistemas de Informação. Gosto sempre de aprender sobre novas ferramentas e novas tecnologias. Atualmente eu estou no inicio dos meus estudos em C# e me aprofundando na linguagem JavaScript, para eu ter um bom domínio nessas duas stacks.
+Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e sou formado em Sistemas de Informação. Gosto sempre de aprender sobre novas ferramentas e novas tecnologias segue abaixo meu Linkedin e Portfólio caso queria me conhecer um pouco mais. Atualmente eu estou me aprofundando na linguagem JavaScript, para eu ter um bom domínio no framework Angular.
 
 - :man_student: Formado em Sistemas de Informação e Design Gráfico
 - 🌐 Visite meu Linkedin para se conectar comigo
@@ -25,8 +25,6 @@ Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e sou formado em Sistem
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
