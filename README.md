@@ -4,7 +4,7 @@
 
 ### Olá a todos! 👋
 
-Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e sou formado em Sistemas de Informação. Gosto sempre de aprender sobre novas ferramentas e novas tecnologias segue abaixo meu Linkedin e Portfólio caso queria me conhecer um pouco mais. Atualmente eu estou me aprofundando na linguagem JavaScript, para eu ter um bom domínio no framework Angular.
+Meu nome é Aquiles Falcão, sou Desenvolvedor Front-end e sou formado em Sistemas de Informação. Segue abaixo meu Linkedin e Portfólio caso queria me conhecer um pouco mais. Atualmente eu estou me aprofundando na linguagem JavaScript, para eu ter um bom domínio no framework Angular.
 
 - :man_student: Formado em Sistemas de Informação e Design Gráfico
 - 🌐 Visite meu Linkedin para se conectar comigo
